@@ -1,6 +1,15 @@
-# Setup de production musicale et Arduino
+# Galerie d'images
+
+Galerie d'image pour mon site:
+
+## setup-musical-arduino
 
 ![Setup de production musicale](images/setup-musical-arduino.png)
 
-Poste de production musicale couplé à un montage Arduino pour contrôler, expérimenter et piloter des éléments sonores en temps réel.
+setup musical avec arduino, 
 
+## Bandes leds neopixels
+
+![bande leds neopixels](images/neopixels.png)
+
+Des bandes NeoPixels multicolore
