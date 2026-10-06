@@ -2,14 +2,13 @@
 
 Galerie d'image pour mon site:
 
-## setup-musical-arduino
+## setup musical
 
 ![Setup de production musicale](images/setup-musical-arduino.png)
 
-setup musical avec arduino, 
-
+setup musical avec arduino et redstone minecraft.
 ## Bandes leds neopixels
 
 ![bande leds neopixels](images/neopixels.png)
 
-Des bandes NeoPixels multicolore
+Des bandes NeoPixels multicolore.
